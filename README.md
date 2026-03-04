@@ -312,7 +312,7 @@ npm install
 
 ## Deployment
 
-### Deploy Backend (Heroku/Railway)
+### Deploy Backend
 
 ```bash
 git init
@@ -325,8 +325,20 @@ git push heroku main  # or Railway equivalent
 
 ```bash
 npm run build
-# Deploy the 'build' folder to Vercel or Netlify
+# Deploy the 'build' folder to Vercel
 ```
+
+### Live URLs
+
+- **Frontend:** https://login-application-git-main-prathyushas-projects-c81ece49.vercel.app/
+- **Backend API:** https://serenefascination.railway.app
+
+## Submission Checklist
+
+- [x] GitHub repository with source code and README
+- [x] Live frontend URL (Vercel)
+- [x] Live backend URL (Railway)
+- [ ] Screen recording link showing features and walkthrough
 
 ## License
 
@@ -342,6 +354,10 @@ For issues or questions:
 
 ---
 
-**Created:** March 2026  
-**Version:** 1.0.0  
+**Created:** March 2026
+**Version:** 1.0.0
 **Status:** ✅ Production Ready
+
+```
+
+```
